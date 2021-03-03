@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@react-native-firebase/app": "^10.8.1",
+    "@react-navigation/native": "^3.8.4",
+    "react-native": "^0.63.4",
+    "react-native-cli": "^2.0.1",
+    "react-native-firebase": "^1.0.2",
+    "react-native-image-picker": "^3.2.1",
+    "react-native-ui-kitten": "^4.2.0",
+    "react-navigation": "^4.4.4",
+    "watchman": "^1.0.0"
+  }
+}
